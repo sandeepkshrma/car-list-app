@@ -6,7 +6,7 @@ export default function Home() {
      <h1>Welcome To Car Listing App</h1>
      <Image
             aria-hidden
-            src="/VinodImg.jpg"
+            src="/images/VinodImg.jpg"
             alt="File icon"
             width={500}
             height={500}
